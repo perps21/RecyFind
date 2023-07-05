@@ -3,10 +3,10 @@
 
 
 ##  Table of Content
-Description
-How to use
-Lincense
-Author
+### Description
+### How to use
+### Lincense
+### Author
 
 ## Description
 Flatdango is an application that allow user to purchase movie tickets. The app shows the tickets available, the runtime,title of the movie and the showtime. It also tells you when the tickets are sold out.
