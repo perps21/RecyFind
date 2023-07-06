@@ -17,7 +17,7 @@ JavaScript HTML CSS
 
 ## How to use
 clone this repo to your local machine 
-open the CLI the go to the directory run the code by opening it to your browser.
+open the CLI then go to the directory run the code by opening it to your browser.
 In the search button enter your location and see the recycling centers near you.
 
 ## License
