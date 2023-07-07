@@ -19,13 +19,19 @@
    font-size: 30px; 
    
 }
+
+#logo:hover{
+  color: #4CAF50;
+}
 span{
   color: #4CAF50;
 }
 
+span:hover{
+  color: #fff;
+}
 
-
-links a{
+.links a{
     text-decoration: none;
     padding: 30px;
     font-size: 25px;
@@ -33,8 +39,8 @@ links a{
 }
 
 .links a:hover{
-  text-decoration: underline;
-  background-color: #4CAF50;
+  color: #4CAF50;
+  
 }
 .btn {
     cursor: pointer;
@@ -168,4 +174,10 @@ background-color: #4CAF50;
   background-color: #efff; 
   color:#000;
   border: 2px solid #4CAF50; 
+}
+
+.about{
+  width: 100%;
+  height: 800px;
+  background-color: #47484A;
 }
