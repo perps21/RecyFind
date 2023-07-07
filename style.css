@@ -25,11 +25,16 @@ span{
 
 
 
-#links, a{
+links a{
     text-decoration: none;
     padding: 30px;
     font-size: 25px;
     color: #fff;
+}
+
+.links a:hover{
+  text-decoration: underline;
+  background-color: #4CAF50;
 }
 .btn {
     cursor: pointer;
@@ -65,30 +70,7 @@ span{
 
   }
   
-  /* .search {
-    display: flex;
-    width: 50%;
-  } 
-  
-  .search > input {
-    flex-grow: 1;
-    border: 2px solid;
-    padding: 20px;
-    font-size: 1rem;
-  }
-  
-  .search > input:focus {
-    outline: none;
-  }
-  
-  .search > button {
-    padding: 0.8rem 2rem;
-    border: 0;
-    cursor: pointer;
-    font-size: 17px;
-    background: #cccccc;
-  }*/
-
+ 
   .search-drop{
     width: 100%;
      background-color: transparent; 
