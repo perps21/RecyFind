@@ -157,7 +157,7 @@ span:hover{
   float: right;
   margin-right: 350px;
 }
-.button{
+#button1{
 
 background-color: #4CAF50; 
   border: none;
@@ -171,11 +171,68 @@ background-color: #4CAF50;
   font-size: 20px;
   cursor: pointer;
 }
-.button:hover {
+#button1:hover {
   background-color: #efff; 
   color:#000;
   border: 2px solid #4CAF50; 
 }
+#button2{
+
+  background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 30px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  #button2:hover {
+    background-color: #efff; 
+    color:#000;
+    border: 2px solid #4CAF50; 
+  }
+  #button3{
+
+    background-color: #4CAF50; 
+      border: none;
+      color: white;
+      padding: 30px 42px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border-radius: 10px;
+      font-size: 20px;
+      cursor: pointer;
+    }
+    #button3:hover {
+      background-color: #efff; 
+      color:#000;
+      border: 2px solid #4CAF50; 
+    }
+    #button4{
+
+      background-color: #4CAF50; 
+        border: none;
+        color: white;
+        padding: 30px 42px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 10px;
+        font-size: 20px;
+        cursor: pointer;
+      }
+      #button4:hover {
+        background-color: #efff; 
+        color:#000;
+        border: 2px solid #4CAF50; 
+      }
 
 .about{
   width: 100%;
@@ -258,4 +315,36 @@ font-size: 20px;
 height: 300px;
 padding: 30px;
 font-size: 20px;
+}
+
+
+
+
+.recycling-center {
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  height: 200px;
+  text-align: center;
+  width: 20%;
+  background-color: #47484A;
+  margin-left: 35%;
+  
+
+}
+
+.recycling-center h3 {
+  margin-top: 0;
+}
+
+.recycling-center p {
+  margin-bottom: 5px;
+}
+
+.recycling-center a {
+  color:#4CAF50;
+  font-size: 25px;
+  text-decoration: none;
+  
+  
 }
