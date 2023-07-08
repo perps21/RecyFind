@@ -1,5 +1,5 @@
 
-# Hewa Safi Web App
+# RecyFind Web App
 
 
 ##  Table of Content
@@ -10,7 +10,7 @@
 ### Author
 
 ## Description
- Hewa Safi is a Web application that allow user to  find the nearest recycling center around their location, it also tells you the type of materials accepted at different recycling centers.
+ RecyFind is a Web application that allow user to  find the nearest recycling center around their location, it also tells you the type of materials accepted at different recycling centers.
 
 ## Technology used.
 JavaScript HTML CSS
